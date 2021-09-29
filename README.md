@@ -1,4 +1,4 @@
-### Hi there 👋
+![Kim-Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Minu&show_icons=true&theme=graywhite )
 
 <!--
 **Kim-Minu/Kim-Minu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
