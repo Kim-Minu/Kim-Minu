@@ -1,8 +1,8 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=@minuuoo">
-# 안녕하세요, 김민우입니다 👋
 
-약 10년간 백엔드를 다뤄온 Product Engineer입니다.
+---
+
+# 안녕하세요, 김민우입니다 👋
 단순히 기능을 구현하는 것을 넘어, 도메인을 깊이 이해하고 아키텍처로 풀어내는 것을 좋아합니다.
 
 ---
