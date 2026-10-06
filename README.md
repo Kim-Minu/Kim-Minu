@@ -10,7 +10,7 @@
 ### 🧭 About Me
 
 - 🛠️ 백엔드 
-- 🌱 최근엔 개인 프로젝트를 통해 아키텍처 패턴(모듈러 모놀리스, DDD, 헥사고날, Saga/Outbox)을 실험하고,
+- 🌱 최근엔 개인 프로젝트를 통해 아키텍처 패턴을 실험하고,
   AI 에이전트(RAG, LangChain, LangGraph, Multi-Agent) 영역으로 역량을 확장하는 중입니다
 - 📍 Seoul, South Korea
 
