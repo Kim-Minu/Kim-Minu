@@ -21,7 +21,6 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 - 프로젝트마다 `CLAUDE.md`를 작성해 아키텍처 컨벤션·도메인 규칙을 명시하고, Claude Code가 컨텍스트를 정확히 이해한 상태에서 작업하도록 운영
-- 정산(Settlement) 엔진 등 개인 프로젝트에서 설계 논의 → 코드 생성 → 리뷰까지 AI를 페어 프로그래머처럼 활용
 - **"내가 이 코드를 완전히 설명할 수 있는가"**를 기준으로, 생성된 코드를 그대로 채택하지 않고 검증·이해한 뒤 반영하는 원칙 유지
 - 반복 작업(보일러플레이트, 테스트 코드, 문서화)은 AI에 위임하고, 아키텍처 의사결정과 도메인 모델링에 집중하는 방식으로 생산성 확보
 
